@@ -1,6 +1,6 @@
 # Novak Djokovic
 
-![Novak Djokovic](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Novak_Djokovic_2024_Paris_Olympics.jpg/500px-Novak_Djokovic_2024_Paris_Olympics.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Novak_Djokovic_2024_Paris_Olympics.jpg/500px-Novak_Djokovic_2024_Paris_Olympics.jpg" alt="Novak Djokovic" width="300" />
 
 ## Contacts
 
